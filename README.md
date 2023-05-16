@@ -62,4 +62,4 @@ az group delete --name RG-web-fastapi-aca
 - [Deploy a Flask or FastPI web app on Azure Container Apps](https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app?tabs=web-app-fastapi)
 
 ## Hosting in Azure container Apps
-- 
+- [Deploy a Flask or FastPI web app on Azure Container Apps](https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app?tabs=web-app-fastapi)
