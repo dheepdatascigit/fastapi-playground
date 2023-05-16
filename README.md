@@ -7,7 +7,10 @@ fastapi play ground
 - pip install -r requirements.txt
 
 ## running
-- uvicorn app:app --reload
+- uvicorn <filename>:<FastAPI instance name> 
+```shell
+uvicorn app:app --reload
+```
 
 # features
 ## self documenting
