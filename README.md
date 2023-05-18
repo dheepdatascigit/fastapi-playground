@@ -1,5 +1,15 @@
-# fastapi-playground
-fastapi play ground
+# Introduction
+The repository is to show case simple use cases of developing APIs with Python & FastAPI.
+
+## Prerequisites
+- Python 3.6+
+- FastAPI
+- Docker
+- Azure CLI
+
+
+
+
 
 # Setup
 ## Virtual enviroment
